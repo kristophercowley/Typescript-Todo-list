@@ -1,0 +1,21 @@
+{
+  "name": "Typescript-Todo-list",
+  "homepage": "https://github.com/kristophercowley/Typescript-Todo-list",
+  "authors": [
+    "Kristopher Cowley <kristopherleecowley@gmail.com>"
+  ],
+  "description": "working with typescript and es6",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.5",
+    "bootstrap": "^3.3.6"
+  }
+}
